@@ -1,2 +1,2 @@
-#define SECRET_SSID "wi-fi"
-#define SECRET_PASS "qselekeitak"
+#define SECRET_SSID "poco"
+#define SECRET_PASS "dudeperfect"
